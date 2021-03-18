@@ -1,4 +1,4 @@
-package com.mitali.msscbrewery.model;
+package com.mitali.msscbrewery.web.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
